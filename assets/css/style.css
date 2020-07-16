@@ -62,7 +62,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* directs placement of page */
 .float-left {
     float: left;
     margin-right: 25px;
